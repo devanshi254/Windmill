@@ -1,7 +1,49 @@
-Interactive Windmill Animation:
+# 0x08 : 2D Animations (Project) #
 
-This project consists of HTML, CSS, and JavaScript components. The HTML file defines the structure of the webpage, including the canvas element where the animation is rendered. The CSS file provides styling for the HTML elements, ensuring proper layout and visual presentation. The JavaScript file contains the logic for animating the scene, including drawing elements on the canvas, handling user interactions such as toggling between day and night mode, animating the windmill blades, moving clouds, and flying birds.
+![](./assets/teaser.png)
 
-The JavaScript code utilizes the HTML5 canvas API to draw shapes, gradients, and images dynamically on the canvas. It sets up an animation loop using the `requestAnimationFrame` function to continuously update the scene's state and render it on the canvas.
+## Assignment ##
 
-Overall, the combination of HTML, CSS, and JavaScript allows for the creation of an interactive and visually appealing animated landscape scene, bringing together elements of nature such as windmills, clouds, mountains, trees, and birds in a seamless and engaging manner.
+### Step 1: Storyboard ###
+
+[What is a
+storyboard?](https://www.google.com/search?hl=en&q=what%20is%20storyboarding#ip=1)
+
+It is an industry standard practice to create a rough
+sketch of target outcome of an animation through a few
+key-frames sketched on a piece of paper like a comic
+strip; so as to [fail earlier than
+later](https://hbr.org/2011/04/failing-by-design).
+
+Create a storyboard of your target animation sequence
+(or a [perpetual
+motion](https://www.google.com/search?q=perpetual+motion))
+as you please.  This'll be your pitch to be submitted
+on the first deadline
+
+### Step 2: Animation ###
+
+Using the [`requestAnimationFrame`
+interface](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame) 
+
+Create an animation of a composition of 2d geometry,
+its tranforms and /or its fill/stroke styles.
+
+As a project this gets submitted on the second
+deadline.
+
+## Submit ##
+
+### Storyboard ###
+
+1. Git URL
+2. Commit ID
+3. Storyboard (One image containing the storyboard)
+
+### Final Project ###
+
+1. Git URL
+2. Commit ID
+3. Storyboard (One image containing the storyboard)
+3. Teaser
+4. Video Link
