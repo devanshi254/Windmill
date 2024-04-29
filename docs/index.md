@@ -2,4 +2,5 @@
 
 By Me and my team members.
 
-this is the working [demo] ./demo/
+this is the working [demo] https://username.github.io/repository/demo/
+
