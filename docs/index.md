@@ -34,5 +34,5 @@ We overcame this challenge by adding a resize event listener to update the canva
 
 Result:
 The result of these actions is a working interactive windmill animation that meets the project requirements. You can find the live demo here
-<p>this is the working [demo] <a href="https://devanshi254.github.io/Windmill/demo/">https://devanshi254.github.io/Windmill/demo/</a></p>
 
+<p>this is the working [demo] <a href="https://devanshi254.github.io/Windmill/demo/">https://devanshi254.github.io/Windmill/demo/</a></p>
