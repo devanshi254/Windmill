@@ -38,7 +38,9 @@ Result:
 v)	Successfully created an interactive windmill animation with dynamic weather effects and day/night mode switching.
 w)	Achieved smooth and realistic animations for windmill rotations, cloud movements, and bird flying sequences.
 x)	Received positive user feedback for the engaging and visually appealing experience.
-y)	The working demo of the project can be accessed here.
+
+![image](https://github.com/devanshi254/Windmill/assets/130210624/169ebd27-e2af-459c-a03c-c1aad29ad1cd)
+
 
 
 
