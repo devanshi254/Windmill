@@ -1,49 +1,44 @@
-# 0x08 : 2D Animations (Project) #
+Project Documentation: Interactive Windmill Animation
 
-![](./assets/teaser.png)
 
-## Assignment ##
+Situation:
+a)	The project aimed to create an interactive windmill animation using HTML, CSS, and JavaScript, incorporating elements like windmills, clouds, birds, and day/night mode.
 
-### Step 1: Storyboard ###
+Task:
+b)	Create an engaging and interactive windmill animation with weather effects.
+c)	Implement day and night mode toggling.
+d)	Incorporate dynamic elements like moving clouds and birds.
+e)	Ensure smooth animation transitions and user interaction.
 
-[What is a
-storyboard?](https://www.google.com/search?hl=en&q=what%20is%20storyboarding#ip=1)
+Action:
+f)	Resources and Assets:
+g)	Utilized HTML5 canvas API for dynamic drawing and animation effects.
+h)	Referenced online tutorials and documentation for canvas animation techniques.
+i)	Gathered inspiration from nature-themed animations and interactive web experiences.
 
-It is an industry standard practice to create a rough
-sketch of target outcome of an animation through a few
-key-frames sketched on a piece of paper like a comic
-strip; so as to [fail earlier than
-later](https://hbr.org/2011/04/failing-by-design).
+Development Process:
+j)	Planned the animation structure, including windmill rotations, cloud movements, and day/night transitions.
+k)	Designed the visual elements, such as windmill blades, cloud shapes, bird sprites, and background gradients.
+l)	Implemented JavaScript functions for animation logic, including blade rotation, cloud and bird movements, and day/night mode switching.
+m)	Conducted iterative testing and debugging to ensure animation smoothness and user experience.
+n)	Optimized code for performance and responsiveness across different devices.
 
-Create a storyboard of your target animation sequence
-(or a [perpetual
-motion](https://www.google.com/search?q=perpetual+motion))
-as you please.  This'll be your pitch to be submitted
-on the first deadline
+Problem-solving:
+o)	Addressed challenges with cloud movement synchronization and natural-looking animations.
+p)	Resolved compatibility issues with older browser versions by implementing fallbacks and polyfills.
+q)	Tweaked animation timings and easing functions for a more realistic and engaging experience.
+r)	Incorporated user feedback and suggestions to improve interactivity and visual appeal.
 
-### Step 2: Animation ###
+Design Choices:
+s)	Chose a color palette inspired by nature, including sky blues, earthy browns, and vibrant greens.
+t)	Designed intuitive UI elements for day/night toggle and interactive windmill blades.
+u)	Balanced animation speed and smoothness for optimal user engagement.
 
-Using the [`requestAnimationFrame`
-interface](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame) 
+Result:
+v)	Successfully created an interactive windmill animation with dynamic weather effects and day/night mode switching.
+w)	Achieved smooth and realistic animations for windmill rotations, cloud movements, and bird flying sequences.
+x)	Received positive user feedback for the engaging and visually appealing experience.
+y)	The working demo of the project can be accessed here.
 
-Create an animation of a composition of 2d geometry,
-its tranforms and /or its fill/stroke styles.
 
-As a project this gets submitted on the second
-deadline.
 
-## Submit ##
-
-### Storyboard ###
-
-1. Git URL
-2. Commit ID
-3. Storyboard (One image containing the storyboard)
-
-### Final Project ###
-
-1. Git URL
-2. Commit ID
-3. Storyboard (One image containing the storyboard)
-3. Teaser
-4. Video Link
