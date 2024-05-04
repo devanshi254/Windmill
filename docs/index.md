@@ -3,42 +3,61 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Blank Website</title>
+    <title>Enhanced Website</title>
     <style>
-        /* CSS styles go here */
-        body {
-            background-color: #f0f0f0;
-            font-family: Arial, sans-serif;
+        /* Reset some default browser styles */
+        body, h1, p {
             margin: 0;
             padding: 0;
         }
-        
-        .container {
-            width: 80%;
-            margin: 0 auto;
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+            line-height: 1.6;
             padding: 20px;
-            background-color: #fff;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
         }
 
+        /* Style links */
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+
+        /* Style links on hover */
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* Style the main content */
+        .content {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Style headings */
         h1 {
+            font-size: 28px;
+            margin-bottom: 20px;
             color: #333;
         }
 
+        /* Style paragraphs */
         p {
-            color: #666;
-            line-height: 1.6;
+            margin-bottom: 15px;
         }
     </style>
 </head>
 <body>
-    <div class="container">
-        <h1>Welcome to My Blank Website</h1>
-        <p>This is a blank website with some basic CSS applied to it. You can add more content and style it as you wish!</p>
+    <div class="content">
+        <h1>Welcome to Your Enhanced Website</h1>
+        <p>This is the working <a href="https://devanshi254.github.io/Windmill/demo/">demo</a>.</p>
+        <p>You can find the project documentation here: <a href="documentation.html">Documentation</a>.</p>
     </div>
 </body>
 </html>
-
-<p>This is the working [demo] <a href="https://devanshi254.github.io/Windmill/demo/">https://devanshi254.github.io/Windmill/demo/</a></p>
-
-<p>You can find the project documentation here: <a href="documentation.html">Documentation</a></p>
