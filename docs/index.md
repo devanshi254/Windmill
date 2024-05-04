@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -36,6 +37,11 @@
         .demo-link:hover {
             background-color: #0056b3;
         }
+        .storyboard-heading {
+            text-align: center;
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
     </style>
 </head>
 <body>
@@ -43,7 +49,6 @@
         <h1>Interactive Windmill Animation</h1>
     </header>
     <div class="container">
-        <p></p>
         <p>You can find the project documentation <a href="documentation.html" target="_blank">here</a></p>
         <p>Imagine a peaceful scenery with multiple windmills standing tall against the backdrop of a beautiful sky and rolling hills. 
             As you observe closely, you'll notice that the blades of these windmills are gracefully rotating, capturing the invisible 
@@ -61,6 +66,12 @@
             inviting you to lose yourself in its mesmerizing visuals and interactive elements.
             So, sit back, relax, and let this animated windmill scene transport you to a world where technology and imagination converge, 
             creating a captivating experience that will leave you in awe.</p>
+        <h2 class="storyboard">Storyboard</h2>
+        <img src="docs/WhatsApp Image 2024-04-19 at 11.43.19 PM.jpeg" alt="Storyboard Image 1">
+        <img src="docs/WhatsApp Image 2024-04-19 at 11.43.32 PM.jpeg" alt="Storyboard Image 2">
+        <img src="docs/WhatsApp Image 2024-04-19 at 11.43.48 PM.jpeg" alt="Storyboard Image 2">
+        <img src="docs/WhatsApp Image 2024-04-19 at 11.44.12 PM.jpeg" alt="Storyboard Image 2">
+        <!-- Add more <img> tags for additional storyboard images -->
         <a href="https://devanshi254.github.io/Windmill/demo/" target="_blank" class="demo-link">Experience the Demo</a>
     </div>
 </body>
