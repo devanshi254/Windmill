@@ -67,10 +67,10 @@
             So, sit back, relax, and let this animated windmill scene transport you to a world where technology and imagination converge, 
             creating a captivating experience that will leave you in awe.</p>
         <h2 class="storyboard">Storyboard</h2>
-        <img src="docs/WhatsApp Image 2024-04-19 at 11.43.19 PM.jpeg" alt="Storyboard Image 1">
-        <img src="docs/WhatsApp Image 2024-04-19 at 11.43.32 PM.jpeg" alt="Storyboard Image 2">
-        <img src="docs/WhatsApp Image 2024-04-19 at 11.43.48 PM.jpeg" alt="Storyboard Image 2">
-        <img src="docs/WhatsApp Image 2024-04-19 at 11.44.12 PM.jpeg" alt="Storyboard Image 2">
+        <img src="https://github.com/devanshi254/Windmill/blob/39c5fa17ef4f23fa95fe68cb648ef5f8c7d98b89/docs/WhatsApp%20Image%202024-04-19%20at%2011.43.19%20PM.jpeg" alt="Storyboard Image 1">
+        <img src="https://github.com/devanshi254/Windmill/blob/39c5fa17ef4f23fa95fe68cb648ef5f8c7d98b89/docs/WhatsApp%20Image%202024-04-19%20at%2011.43.32%20PM.jpeg" alt="Storyboard Image 2">
+        <img src="https://github.com/devanshi254/Windmill/blob/39c5fa17ef4f23fa95fe68cb648ef5f8c7d98b89/docs/WhatsApp%20Image%202024-04-19%20at%2011.43.48%20PM.jpeg" alt="Storyboard Image 2">
+        <img src="https://github.com/devanshi254/Windmill/blob/39c5fa17ef4f23fa95fe68cb648ef5f8c7d98b89/docs/WhatsApp%20Image%202024-04-19%20at%2011.44.12%20PM.jpeg" alt="Storyboard Image 2">
         <!-- Add more <img> tags for additional storyboard images -->
         <a href="https://devanshi254.github.io/Windmill/demo/" target="_blank" class="demo-link">Experience the Demo</a>
     </div>
