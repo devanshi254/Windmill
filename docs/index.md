@@ -20,6 +20,7 @@
             max-width: 1200px;
             margin: 0 auto;
             padding: 20px;
+            overflow: auto; /* Add overflow property to show scrollbar if content exceeds container */
         }
         p {
             line-height: 1.6;
