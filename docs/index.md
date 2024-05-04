@@ -43,7 +43,7 @@
         <h1>Interactive Windmill Animation</h1>
     </header>
     <div class="container">
-        <p>This is the working <a href="https://devanshi254.github.io/Windmill/demo/" target="_blank">demo</a></p>
+        <p></p>
         <p>You can find the project documentation <a href="documentation.html" target="_blank">here</a></p>
         <p>Imagine a peaceful scenery with multiple windmills standing tall against the backdrop of a beautiful sky and rolling hills. 
             As you observe closely, you'll notice that the blades of these windmills are gracefully rotating, capturing the invisible 
